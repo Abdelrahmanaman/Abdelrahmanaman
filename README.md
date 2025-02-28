@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 Hello, I am Abdelrahman<br>, I love to explore new technologies and turn ideas into reality.<br>I am looking to improve my skills, the journey of a web a developer is a never-ending one.
 Let's Collab!
  <br>
